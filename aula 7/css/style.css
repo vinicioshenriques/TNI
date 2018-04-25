@@ -1,0 +1,77 @@
+
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+    font-family: "roboto";
+    background-color: #032336;
+}
+
+h3{
+    font-size: 150%;
+    background-color: #6FA798;
+    padding: 15px;
+}
+
+img{
+    max-width: 500px;
+    max-height: 500px;
+}
+
+header{
+    font-size: 140%;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    padding: 1em;
+    color: black;
+    background-color: #81f499;
+    clear: left;
+    text-align: center;
+}
+
+footer {
+    padding: 1em;
+    color: white;
+    background-color: #2859a8;
+    clear: left;
+    text-align: center;
+}
+
+a{
+    color: white;
+}
+
+nav {
+    font-size: 110%;
+    float: left;
+    max-width: 180px;
+    margin: 0;
+    padding: 1em;
+    color: white;
+    background-color: #032336;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    color: white;
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 3em;
+    overflow: hidden;
+    background-color: #052354;
+}
+
+.descrição{
+    text-align: center;
+}
+
+textarea{
+    width: 400px;
+    height: 150px;
+}

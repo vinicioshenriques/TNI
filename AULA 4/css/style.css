@@ -1,0 +1,178 @@
+.back{
+	padding: 15px;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+	background-color: #23af27;
+}
+
+
+.left{
+	padding-top: 13px;
+	text-align: left;
+	padding-bottom: 3px;
+}
+
+.center{
+	padding-top: 13px;
+	text-align: center;
+	padding-bottom: 5px;
+}
+
+.seta{
+	height: 35px;
+	width: 35px;
+}
+
+.leftborder {
+	border-left: 1px solid;
+}
+
+.rightborder {
+	border-right: 1px solid;
+}
+
+.topborder {
+	border-top: 1px solid;
+}
+
+.bottomborder {
+	border-bottom: 1px solid;
+}
+
+.nobottomborder{
+	border-bottom: 1px solid white;
+}
+
+table{
+	width: 100%;
+}
+
+
+tr{
+	border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+}
+
+td:nth-child(even){
+	background-color: #dddddd;
+}
+
+
+.circlegreen{
+	margin-left: 5px;
+	margin-bottom: 20px;
+	float: left;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: green;
+}
+
+.circlegray{
+	margin-left: 5px;
+	float: left;
+	margin-bottom: 20px;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: gray;
+}
+
+.circlered{
+	margin-left: 5px;
+	float: left;
+	margin-bottom: 20px;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: red;
+}
+
+.centertd{
+	text-align: center;
+}
+
+.semborda{
+	border-top: white;
+    border-bottom: white;
+}
+
+td.semcor{
+	background-color: white;
+}
+
+.bigger{
+	font-size: 100%;
+}
+
+span{
+	font-size: 200%;
+	color: black;
+}
+
+img{
+	width: 40px;
+	height: 40px;
+}
+
+.marginleft{
+	margin-left: 25%;
+}
+
+table#t01{
+	font-size: 120%;
+}
+
+span.blue{
+	font-size: 110%;
+	color: blue;
+}
+
+span.red{
+	font-size: 110%;
+	color: red;
+}
+
+span.green{
+	font-size: 120%;
+	color: green;
+}
+
+table#t02{
+	width: 100%
+	border-top: 1px solid black;
+	border-left: 1px solid black ;
+	border-bottom: : 1px solid black ;
+	border-right: : 1px solid black;
+}
+
+.quadradoazul{
+	width: 5px;
+	height: 5px;
+	border: 5px solid;
+	border-color: #00f;
+}
+
+.bordas{
+	border-color: black;
+}
+
+.padding{
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
+
+.padding2{
+	padding-top: 20px;
+	padding-left: 25px;
+	padding-bottom: 20px;
+	padding-right: 27px;
+}
+
+.metade{
+	width: 50%;
+}
+

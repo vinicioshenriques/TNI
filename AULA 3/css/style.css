@@ -1,0 +1,64 @@
+body{
+	background-color: white;
+}
+
+p{
+	font-family: cursive;
+	font-size: 120%;
+}
+
+header{
+	background-color: #33ff33;
+	border-radius: 5%;
+}
+
+#cabeçalho{
+	text-align: center;
+	font-size: 300%;
+	font-family: cursive;
+}
+
+#foto{
+	margin-left: 40px;
+	max-width: 70%;
+	max-height: 70%;
+	border-radius: 50%;
+	border-style: solid;
+}
+
+b{
+	color: #33ff33;
+}
+
+hr{
+	background-color: #33ff33;
+	min-height: 3px;
+}
+
+.curso{
+	font-family: cursive;
+	font-size: 120%;
+}
+
+.descrição{
+	margin-left: 20px;
+	font-family: cursive;
+	font-size: 110%;
+}
+
+
+.linha-vertical {
+  height: 750px;
+  border-left: 2px solid;
+  color: #33ff33;
+}
+
+.circle{
+	height: 10px;
+	width: 10px;
+	background-color: #80d4ff;
+	border-radius: 50%;
+	float: right;
+	margin-left: 10px;
+}
+
